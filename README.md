@@ -90,5 +90,6 @@ The proposed method successfully improves the traditional Apriori algorithm by e
 
 **Ph Angamba Singha**  
  Research Review
+ Diaclaimer: It is just for research purpose.
 
 ---
