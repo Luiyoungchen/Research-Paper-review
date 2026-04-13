@@ -1,6 +1,4 @@
-# Research Paper Review: Multi-Stage Association Rule Mining
 
-This repository presents a detailed review and analysis of the research paper:
 
 **“An Association Rule-Based Approach for Frequent Item Mining of Multi-Stage Access Data”**
 
