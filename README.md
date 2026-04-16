@@ -83,11 +83,8 @@ This project explores an improved approach that enhances the performance of freq
 The proposed method successfully improves the traditional Apriori algorithm by enhancing efficiency, reducing computational overhead, and providing more accurate results. It is highly suitable for modern large-scale, multi-stage data environments.
 
 ---
-
-## Author
-
-**Ph Angamba Singha**  
  Research Review
+
  Diaclaimer: It is just for research purpose.
 
 ---
