@@ -10,6 +10,8 @@ With the rapid growth of large-scale datasets, traditional data mining technique
 
 This project explores an improved approach that enhances the performance of frequent item mining in multi-stage access data using optimized techniques.
 
+This is the crucial one 
+
 ---
 
 ##  Key Contributions of the Paper
